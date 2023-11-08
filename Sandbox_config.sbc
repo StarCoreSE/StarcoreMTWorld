@@ -145,11 +145,6 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Military Industrial Complex">
-      <Name>2902380862.sbm</Name>
-      <PublishedFileId>2902380862</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -400,6 +395,11 @@
       <PublishedFileId>2824332148</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Military Industrial Complex">
+      <Name>2902380862.sbm</Name>
+      <PublishedFileId>2902380862</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="MA_Afterburner">
       <Name>2582915617.sbm</Name>
       <PublishedFileId>2582915617</PublishedFileId>
@@ -547,5 +547,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2023-11-07T17:28:17.294542-06:00</LastSaveTime>
+  <LastSaveTime>2023-11-07T18:07:44.9666337-06:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
