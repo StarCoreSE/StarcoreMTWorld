@@ -1,5 +1,5 @@
-[18:07:11.465] [T1] [DS=False] DEBUG | Log Started
-[18:07:11.507] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[18:01:55.490] [T1] [DS=False] DEBUG | Log Started
+[18:01:55.603] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1156,11 +1156,11 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Assault
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Thanatos
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Alecto
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Mammon
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Nott
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TurretControlBlock/LargeTurretControlBlock
@@ -1551,7 +1551,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/ModularLRM5
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Esper
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/ModularMiddleLRM5
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/ModularMRM10
