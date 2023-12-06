@@ -1,5 +1,5 @@
-[18:01:55.490] [T1] [DS=False] DEBUG | Log Started
-[18:01:55.603] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[16:19:49.469] [T1] [DS=False] DEBUG | Log Started
+[16:19:49.550] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -822,8 +822,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_AC150_45_Gantry
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeGatlingTurret/MA_EMP
-->-> Definition added to restricted list
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gladius
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/MA_PDX
@@ -861,8 +860,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_LargeMissileTurret/MA_Gimbal_Laser_T2_Armored_Slope45
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Interior_Laser
-->-> Definition added to restricted list
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_InteriorLight/MA_Interior_Light
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/MA_Gimbal_Laser_Armored_sb
@@ -884,11 +882,11 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Fixed_T3
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Fixed_T2_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Fixed_T2_Naked_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Fixed_T3_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Meatball
 ->-> Definition added to restricted list
 ->-> Setting added successfully
@@ -916,11 +914,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Tiger
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Tiger_sm
-->-> Definition added to restricted list
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Tiger_30_sm
-->-> Definition added to restricted list
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_CameraBlock/MA_Buster_Camera
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/DSControlTable
@@ -1509,7 +1505,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Odin_Lazcannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/JN_175Fixed
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/StealthDrive
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_UpgradeModule/StealthDriveSmall
@@ -1891,11 +1887,11 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_PDX
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_PDX_sm
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_PDT
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_PDT_sm
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_Armored
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_Armored_Slope
@@ -1917,15 +1913,15 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_T2_Armored_Slope45
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_Armored_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_Armored_Slope_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_Armored_Slope2_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_Armored_Slope45_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_sb
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeGatlingTurret/LargeGatlingTurret_SC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeBlockMediumCalibreTurret_SC
@@ -1941,7 +1937,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeRailgun_SC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/CLB2X
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/BALLER
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/65_Launcher_FixedMount
@@ -2108,9 +2104,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_LargeMissileTurret/KreegMagnetarCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer_Angled
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ButtonPanel/LargeButtonPanelPedestal
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ButtonPanel/SmallButtonPanelPedestal
@@ -2322,9 +2318,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_Radome
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer_Flipped
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer_Angled_Flipped
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverEVEDepot
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanRailBomberAdmin
