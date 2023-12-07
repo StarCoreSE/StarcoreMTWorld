@@ -145,6 +145,10 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="SCEntityCover">
+      <Name>SCEntityCover</Name>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -303,11 +307,6 @@
     <ModItem FriendlyName="SCMobilityBlocks">
       <Name>3020885446.sbm</Name>
       <PublishedFileId>3020885446</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCDefenseBlocks">
@@ -532,5 +531,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2023-12-06T18:11:20.5940499-06:00</LastSaveTime>
+  <LastSaveTime>2023-12-06T20:31:37.5899296-06:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

@@ -7,18 +7,6 @@
     <CenterPosition x="0" y="0" z="0" />
     <ParentId>00000000-0000-0000-0000-000000000000</ParentId>
     <ChildObjects>
-      <MySystemObject xsi:type="MySystemPlanet">
-        <Type>PLANET</Type>
-        <DisplayName>SMOLHOLE</DisplayName>
-        <Id>b53cbe8a-ab52-484a-89be-0758baceb58f</Id>
-        <CenterPosition x="0" y="0" z="0" />
-        <ParentId>eb1cc900-50a7-4418-9524-5a22eeb888ce</ParentId>
-        <ChildObjects />
-        <SubtypeId>BlackHole</SubtypeId>
-        <Diameter>1000</Diameter>
-        <Generated>true</Generated>
-        <EntityId>-4661945462517774898</EntityId>
-      </MySystemObject>
       <MySystemObject xsi:type="MySystemAsteroids">
         <Type>ASTEROIDS</Type>
         <DisplayName>ROIDCLUSTER</DisplayName>
@@ -34,15 +22,15 @@
       </MySystemObject>
       <MySystemObject xsi:type="MySystemPlanet">
         <Type>PLANET</Type>
-        <DisplayName>Moon</DisplayName>
-        <Id>833a560b-6022-48b5-9149-df219c4f2ee9</Id>
-        <CenterPosition x="136.55656984238158" y="189.24452893980197" z="70478.3044132257" />
+        <DisplayName>BlackHole</DisplayName>
+        <Id>ff6c7ea4-b1db-454b-bcbd-517d43f92fd0</Id>
+        <CenterPosition x="12.499999909510823" y="12.499999909510819" z="12.499999611157946" />
         <ParentId>eb1cc900-50a7-4418-9524-5a22eeb888ce</ParentId>
         <ChildObjects />
-        <SubtypeId />
-        <Diameter>123600</Diameter>
+        <SubtypeId>Pertam</SubtypeId>
+        <Diameter>1000</Diameter>
         <Generated>true</Generated>
-        <EntityId>2009344032305228557</EntityId>
+        <EntityId>-7042660506472184355</EntityId>
       </MySystemObject>
     </ChildObjects>
   </CenterObject>

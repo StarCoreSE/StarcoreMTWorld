@@ -1,5 +1,5 @@
-[18:58:54.480] [T1] [DS=False] DEBUG | Log Started
-[18:58:54.520] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[20:31:56.929] [T1] [DS=False] DEBUG | Log Started
+[20:31:56.971] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2334,6 +2334,8 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_SmallMissileLauncher/LargeFlareLauncher
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_SmallMissileLauncher/SmallFlareLauncher
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/EntityCoverSatellite
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
