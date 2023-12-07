@@ -146,7 +146,8 @@
   </Settings>
   <Mods>
     <ModItem FriendlyName="SCEntityCover">
-      <Name>SCEntityCover</Name>
+      <Name>3007088668.sbm</Name>
+      <PublishedFileId>3007088668</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
@@ -531,5 +532,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2023-12-06T20:31:37.5899296-06:00</LastSaveTime>
+  <LastSaveTime>2023-12-06T20:32:50.5648819-06:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
