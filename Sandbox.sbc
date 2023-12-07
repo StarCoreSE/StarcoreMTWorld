@@ -1,49 +1,34 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>943020160000</ElapsedGameTime>
+  <ElapsedGameTime>944135520000</ElapsedGameTime>
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
-    <Position x="-5152.7114307227439" y="923.74285810602328" z="310.61051231390178" />
-    <Forward x="0.941245139" y="-0.2685026" z="-0.204850927" />
-    <Up x="0.241276309" y="0.95903945" z="-0.1484221" />
+    <Position x="-298.7602453302938" y="584.19251315048189" z="-2071.3583804218974" />
+    <Forward x="0.3331625" y="-0.05529606" z="0.941246569" />
+    <Up x="-0.0609027371" y="0.994932" z="0.08000702" />
     <Orientation>
-      <X>-0.1345562</X>
-      <Y>-0.616010666</Y>
-      <Z>-0.04873312</Z>
-      <W>0.7746293</W>
+      <X>-0.03679034</X>
+      <Y>0.984515</Y>
+      <Z>0.0343578</Z>
+      <W>-0.167917415</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="18.2692738" y="1" />
+  <SpectatorSpeed x="19.17511" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>142040132107931631</CameraEntity>
   <ControlledObject>142040132107931631</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2023-12-06T22:29:54.0509067-06:00</LastSaveTime>
+  <LastSaveTime>2023-12-06T22:47:50.4758039-06:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
     <SelectedSlot xsi:nil="true" />
-    <Slots>
-      <Slot>
-        <Index>0</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="EntityCoverSatellite" />
-        </Data>
-      </Slot>
-      <Slot>
-        <Index>1</Index>
-        <Item />
-        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-        </Data>
-      </Slot>
-    </Slots>
+    <Slots />
     <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
@@ -1216,11 +1201,11 @@ SiegeCooldownTimer=18000
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters>
         <long>142040132107931631</long>
       </SavedCharacters>
-      <LastLogoutTime>2023-12-06T22:29:54.0509067-06:00</LastLogoutTime>
+      <LastLogoutTime>2023-12-06T22:47:50.4758039-06:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-7180.1989407034152</X>
@@ -1235,7 +1220,7 @@ SiegeCooldownTimer=18000
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.0837142-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1248,7 +1233,7 @@ SiegeCooldownTimer=18000
       <DisplayName>ADM NPC9445</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1261,7 +1246,7 @@ SiegeCooldownTimer=18000
       <DisplayName>OUT NPC1742</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1274,7 +1259,7 @@ SiegeCooldownTimer=18000
       <DisplayName>NEU NPC3649</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1287,7 +1272,7 @@ SiegeCooldownTimer=18000
       <DisplayName>BLU NPC1764</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1300,7 +1285,7 @@ SiegeCooldownTimer=18000
       <DisplayName>RED NPC6284</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:07.8565839-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:05.1601679-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1313,7 +1298,7 @@ SiegeCooldownTimer=18000
       <DisplayName>Pirate</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2023-12-06T22:25:11.7491681-06:00</LastLoginTime>
+      <LastLoginTime>2023-12-06T22:46:09.5199023-06:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:43.2247148-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1339,22 +1324,7 @@ SiegeCooldownTimer=18000
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
-            <Slots>
-              <Slot>
-                <Index>0</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="EntityCoverSatellite" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>1</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlock" />
-                </Data>
-              </Slot>
-            </Slots>
+            <Slots />
             <SlotsGamepad />
           </Toolbar>
           <EntityCameraData>
@@ -1364,7 +1334,7 @@ SiegeCooldownTimer=18000
               <HeadAngle x="-45.57904" y="333.364777" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="142040132107931631">
-              <IsFirstPerson>true</IsFirstPerson>
+              <IsFirstPerson>false</IsFirstPerson>
               <Distance>2.5</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
@@ -1707,7 +1677,7 @@ SiegeCooldownTimer=18000
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.191316783" y="0.59578985" z="-0.780020833" />
+      <SunDirectionNormalized x="-0.19877249" y="0.592641" z="-0.780555069" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-7042660506472184355</PlanetId>
@@ -64096,7 +64066,7 @@ SiegeCooldownTimer=18000
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>109733</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>105883</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
