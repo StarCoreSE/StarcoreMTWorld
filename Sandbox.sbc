@@ -5,12 +5,12 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="-298.7602453302938" y="584.19251315048189" z="-2071.3583804218974" />
-    <Forward x="0.333162516" y="-0.0552960336" z="0.9412467" />
-    <Up x="-0.0609027669" y="0.994932" z="0.080007" />
+    <Forward x="0.333162516" y="-0.0552960262" z="0.9412467" />
+    <Up x="-0.0609027743" y="0.994932" z="0.0800069943" />
     <Orientation>
-      <X>-0.036790356</X>
+      <X>-0.03679036</X>
       <Y>0.984515</Y>
-      <Z>0.0343577862</Z>
+      <Z>0.0343577825</Z>
       <W>-0.167917415</W>
     </Orientation>
   </SpectatorPosition>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -805,6 +805,16 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Anomaly-Solaris-Hypernautics">
+      <Name>2983399274.sbm</Name>
+      <PublishedFileId>2983399274</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[AMP] Aristeas Melee Pack">
+      <Name>2870210922.sbm</Name>
+      <PublishedFileId>2870210922</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Starcore MA weapons natebranch Supar Sekrit AutoMcDognut Bootleg">
       <Name>2953252400.sbm</Name>
       <PublishedFileId>2953252400</PublishedFileId>
