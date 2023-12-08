@@ -5,12 +5,12 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="-298.7602453302938" y="584.19251315048189" z="-2071.3583804218974" />
-    <Forward x="0.3331625" y="-0.05529606" z="0.941246569" />
-    <Up x="-0.0609027371" y="0.994932" z="0.08000702" />
+    <Forward x="0.333162516" y="-0.0552960522" z="0.9412467" />
+    <Up x="-0.060902752" y="0.994932" z="0.08000701" />
     <Orientation>
-      <X>-0.03679034</X>
+      <X>-0.03679035</X>
       <Y>0.984515</Y>
-      <Z>0.0343578</Z>
+      <Z>0.0343577936</Z>
       <W>-0.167917415</W>
     </Orientation>
   </SpectatorPosition>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -805,9 +805,14 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
+    <ModItem FriendlyName="Heavy Assault Systems">
+      <Name>2737684960.sbm</Name>
+      <PublishedFileId>2737684960</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Season 3 Pointslist">
+      <Name>2862022197.sbm</Name>
+      <PublishedFileId>2862022197</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
@@ -830,9 +835,9 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2824324850</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="TIOStarcore-Dev">
-      <Name>3017842205.sbm</Name>
-      <PublishedFileId>3017842205</PublishedFileId>
+    <ModItem FriendlyName="TIOStarcore">
+      <Name>3019366671.sbm</Name>
+      <PublishedFileId>3019366671</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -860,16 +865,6 @@ SiegeCooldownTimer=18000
       <PublishedFileId>3018817811</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore_Pointslist_Dev">
-      <Name>3017849106.sbm</Name>
-      <PublishedFileId>3017849106</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
-      <Name>3017832153.sbm</Name>
-      <PublishedFileId>3017832153</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Tournament Weapon Category">
       <Name>2785856511.sbm</Name>
       <PublishedFileId>2785856511</PublishedFileId>
@@ -893,6 +888,11 @@ SiegeCooldownTimer=18000
     <ModItem FriendlyName="Starcore Serpent Arms Heavy Metal">
       <Name>2683126590.sbm</Name>
       <PublishedFileId>2683126590</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore REEECore">
+      <Name>2683126168.sbm</Name>
+      <PublishedFileId>2683126168</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -970,6 +970,11 @@ SiegeCooldownTimer=18000
       <PublishedFileId>3020885446</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="SCEntityCover">
+      <Name>3007088668.sbm</Name>
+      <PublishedFileId>3007088668</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCDefenseBlocks">
       <Name>3023988614.sbm</Name>
       <PublishedFileId>3023988614</PublishedFileId>
@@ -1003,11 +1008,6 @@ SiegeCooldownTimer=18000
     <ModItem FriendlyName="Relative Top Speed">
       <Name>1359618037.sbm</Name>
       <PublishedFileId>1359618037</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="REEECore-Dev">
-      <Name>3017853482.sbm</Name>
-      <PublishedFileId>3017853482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="PickmeRevengeance + FactionControl">
@@ -1058,11 +1058,6 @@ SiegeCooldownTimer=18000
     <ModItem FriendlyName="Invalid's Vanilla Lobotomizer">
       <Name>2953725395.sbm</Name>
       <PublishedFileId>2953725395</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
-      <Name>3017853784.sbm</Name>
-      <PublishedFileId>3017853784</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
@@ -1191,6 +1186,7 @@ SiegeCooldownTimer=18000
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1505,6 +1501,8 @@ SiegeCooldownTimer=18000
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64326,4 +64324,7 @@ SiegeCooldownTimer=18000
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>

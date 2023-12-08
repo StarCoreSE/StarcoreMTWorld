@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -79,7 +79,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -145,9 +145,14 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
+    <ModItem FriendlyName="Heavy Assault Systems">
+      <Name>2737684960.sbm</Name>
+      <PublishedFileId>2737684960</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Season 3 Pointslist">
+      <Name>2862022197.sbm</Name>
+      <PublishedFileId>2862022197</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
@@ -170,9 +175,9 @@
       <PublishedFileId>2824324850</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="TIOStarcore-Dev">
-      <Name>3017842205.sbm</Name>
-      <PublishedFileId>3017842205</PublishedFileId>
+    <ModItem FriendlyName="TIOStarcore">
+      <Name>3019366671.sbm</Name>
+      <PublishedFileId>3019366671</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Text HUD API">
@@ -200,16 +205,6 @@
       <PublishedFileId>3018817811</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore_Pointslist_Dev">
-      <Name>3017849106.sbm</Name>
-      <PublishedFileId>3017849106</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore-MA-Weapons-Natemod-Dev">
-      <Name>3017832153.sbm</Name>
-      <PublishedFileId>3017832153</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Tournament Weapon Category">
       <Name>2785856511.sbm</Name>
       <PublishedFileId>2785856511</PublishedFileId>
@@ -233,6 +228,11 @@
     <ModItem FriendlyName="Starcore Serpent Arms Heavy Metal">
       <Name>2683126590.sbm</Name>
       <PublishedFileId>2683126590</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore REEECore">
+      <Name>2683126168.sbm</Name>
+      <PublishedFileId>2683126168</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Reaction Control System">
@@ -310,6 +310,11 @@
       <PublishedFileId>3020885446</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="SCEntityCover">
+      <Name>3007088668.sbm</Name>
+      <PublishedFileId>3007088668</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCDefenseBlocks">
       <Name>3023988614.sbm</Name>
       <PublishedFileId>3023988614</PublishedFileId>
@@ -343,11 +348,6 @@
     <ModItem FriendlyName="Relative Top Speed">
       <Name>1359618037.sbm</Name>
       <PublishedFileId>1359618037</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="REEECore-Dev">
-      <Name>3017853482.sbm</Name>
-      <PublishedFileId>3017853482</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="PickmeRevengeance + FactionControl">
@@ -398,11 +398,6 @@
     <ModItem FriendlyName="Invalid's Vanilla Lobotomizer">
       <Name>2953725395.sbm</Name>
       <PublishedFileId>2953725395</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy-Assault-Systems-Dev">
-      <Name>3017853784.sbm</Name>
-      <PublishedFileId>3017853784</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
