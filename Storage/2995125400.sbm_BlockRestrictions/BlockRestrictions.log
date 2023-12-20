@@ -1,5 +1,5 @@
-[22:46:08.306] [T1] [DS=False] DEBUG | Log Started
-[22:46:08.354] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[06:51:02.962] [T1] [DS=False] DEBUG | Log Started
+[06:51:03.042] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -277,7 +277,6 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_OxygenTank/LargeHydrogenTank
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_OxygenTank/LargeHydrogenTankSmall
-->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_OxygenTank/SmallHydrogenTank
 ->-> Definition added to restricted list
@@ -1523,13 +1522,16 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Sentry_Drone_Launcher
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_FlameThrower
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Definition added to restricted list
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ArcMelee
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_CryoShotgun
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Definition added to restricted list
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_FlameThrowerSmall
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Definition added to restricted list
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Odin_PDC_Half
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Odin_PDC_Half_Slope_Top
@@ -1565,7 +1567,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/ModularMRM10AngledReversed
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ArcMeleeReskin
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HakkeroBeam
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/HakkeroProjectile
@@ -1660,9 +1662,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ShipWelder/SELtdSmallNanobotBuildAndRepairSystem
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_SwordMelee
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ShieldAmplifier
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/ERPPC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SLAM
@@ -1702,7 +1704,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Guardian
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ArcMeleeLarge
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Desk
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_DeskCorner
@@ -1859,7 +1861,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Gingersnaps
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_EnergyShieldGun
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/PhysBlink
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Kinetic_Cannon_Turret
@@ -2090,13 +2092,13 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_MammonMK2
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_BatteryBlock/CapacitorLarge
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_HealGenerator
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_FlakShotgun
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ImpulseTorch
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Support_Module_Test
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/K_HS_Damnation

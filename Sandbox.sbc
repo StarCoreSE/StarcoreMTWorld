@@ -5,12 +5,12 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="-298.7602453302938" y="584.19251315048189" z="-2071.3583804218974" />
-    <Forward x="0.333162516" y="-0.05529602" z="0.9412467" />
-    <Up x="-0.0609027855" y="0.994932" z="0.08000699" />
+    <Forward x="0.333162516" y="-0.05529601" z="0.9412467" />
+    <Up x="-0.060902793" y="0.994932" z="0.08000698" />
     <Orientation>
-      <X>-0.0367903635</X>
+      <X>-0.0367903672</X>
       <Y>0.984515</Y>
-      <Z>0.03435778</Z>
+      <Z>0.034357775</Z>
       <W>-0.167917415</W>
     </Orientation>
   </SpectatorPosition>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -805,36 +805,6 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
-    <ModItem FriendlyName="Starcore Paperdoll">
-      <Name>2846569122.sbm</Name>
-      <PublishedFileId>2846569122</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Anomaly-Solaris-Hypernautics">
-      <Name>2983399274.sbm</Name>
-      <PublishedFileId>2983399274</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="[AMP] Aristeas Melee Pack">
-      <Name>2870210922.sbm</Name>
-      <PublishedFileId>2870210922</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore MA weapons natebranch Supar Sekrit AutoMcDognut Bootleg">
-      <Name>2953252400.sbm</Name>
-      <PublishedFileId>2953252400</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Heavy Assault Systems">
-      <Name>2737684960.sbm</Name>
-      <PublishedFileId>2737684960</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore Season 3 Pointslist">
-      <Name>2862022197.sbm</Name>
-      <PublishedFileId>2862022197</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
       <Name>1918681825.sbm</Name>
       <PublishedFileId>1918681825</PublishedFileId>
@@ -890,16 +860,6 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2785856511</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Starcore Specialized Armor - Kinetic">
-      <Name>2840146879.sbm</Name>
-      <PublishedFileId>2840146879</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore Specialized Armor - Energy">
-      <Name>2840146840.sbm</Name>
-      <PublishedFileId>2840146840</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - GreyRingsClose">
       <Name>3048988271.sbm</Name>
       <PublishedFileId>3048988271</PublishedFileId>
@@ -910,6 +870,11 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2683126590</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Starcore Season 3 Pointslist">
+      <Name>2862022197.sbm</Name>
+      <PublishedFileId>2862022197</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Starcore REEECore">
       <Name>2683126168.sbm</Name>
       <PublishedFileId>2683126168</PublishedFileId>
@@ -918,6 +883,16 @@ SiegeCooldownTimer=18000
     <ModItem FriendlyName="Starcore Reaction Control System">
       <Name>2973091771.sbm</Name>
       <PublishedFileId>2973091771</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore Paperdoll">
+      <Name>2846569122.sbm</Name>
+      <PublishedFileId>2846569122</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Starcore MA weapons natebranch Supar Sekrit AutoMcDognut Bootleg">
+      <Name>2953252400.sbm</Name>
+      <PublishedFileId>2953252400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCore Logo Pack">
@@ -1080,6 +1055,11 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2953725395</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Heavy Assault Systems">
+      <Name>2737684960.sbm</Name>
+      <PublishedFileId>2737684960</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Font: Mono Color">
       <Name>2174915662.sbm</Name>
       <PublishedFileId>2174915662</PublishedFileId>
@@ -1170,6 +1150,11 @@ SiegeCooldownTimer=18000
       <PublishedFileId>1939935505</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Anomaly-Solaris-Hypernautics">
+      <Name>2983399274.sbm</Name>
+      <PublishedFileId>2983399274</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Animation Engine">
       <Name>2880317963.sbm</Name>
       <PublishedFileId>2880317963</PublishedFileId>
@@ -1198,6 +1183,11 @@ SiegeCooldownTimer=18000
     <ModItem FriendlyName="[Depreciated] WCT FreeSubgrid">
       <Name>2464635274.sbm</Name>
       <PublishedFileId>2464635274</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="[AMP] Aristeas Melee Pack">
+      <Name>2870210922.sbm</Name>
+      <PublishedFileId>2870210922</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="40k Weapons Mod">
