@@ -1,5 +1,5 @@
-[06:51:02.962] [T1] [DS=False] DEBUG | Log Started
-[06:51:03.042] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[13:52:30.859] [T1] [DS=False] DEBUG | Log Started
+[13:52:30.929] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -954,23 +954,23 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/EmitterSA
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXLightCoilgun
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_SmallMissileLauncher/ARYXTempestCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeMissileTurret/ARYXBurstTurret
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXBurstTurretSlanted
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXRailgun
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXFocusLance
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXPlasmaPulser
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXGaussCannon
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXLargeRadar
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeMissileTurret/ARYXMagnetarCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Thrust/AQD_LG_IonThrusterL_Armored
@@ -1264,7 +1264,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Drone_Launcher
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXBurstTurret
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Beacon/DamageSphere
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Cockpit/LargeBlockDeskCornerInv
@@ -1360,11 +1360,11 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_Launcher_IV
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_Launcher_VI
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_Launcher_VII
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_Launcher_VIV
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_AMS_II
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_SA_AMS_III
@@ -1390,7 +1390,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Fixed_Coil_Cannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXRailgunTurret
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Flare
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeBlockLargeCalibreGun
@@ -1692,7 +1692,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/HakkeroProjectileMini
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXTempestCannon
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanRailCompact
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanRail
@@ -1883,7 +1883,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/StealthDrive1x1
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/ARYXMagnetarCannon
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/CLBX5
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_PDX
@@ -2338,6 +2338,20 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_SmallMissileLauncher/SmallFlareLauncher
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverSatellite
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT40
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT41
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT42
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT42L
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT43
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT44
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Decoy/LargeDecoy_MetalFoam
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
