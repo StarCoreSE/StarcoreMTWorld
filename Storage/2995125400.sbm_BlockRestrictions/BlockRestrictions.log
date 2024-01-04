@@ -1,5 +1,5 @@
-[13:52:30.859] [T1] [DS=False] DEBUG | Log Started
-[13:52:30.929] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[17:06:10.985] [T1] [DS=False] DEBUG | Log Started
+[17:06:11.060] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1082,7 +1082,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_LRM_Block
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_PPC_Block
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Arrow_Block
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SG_Vulcan_SAMS_Block
@@ -1476,9 +1476,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Odin_CoilCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_M_Laser_Block
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_L_Laser_Block
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_SRB
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Basic_Warhead
@@ -1658,9 +1658,10 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_Coil_Cannon
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ShipWelder/SELtdLargeNanobotBuildAndRepairSystem
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ShipWelder/SELtdSmallNanobotBuildAndRepairSystem
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Definition added to restricted list
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_SwordMelee
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ShieldAmplifier
@@ -2352,6 +2353,26 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/AncientAfterburnerT44
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Decoy/LargeDecoy_MetalFoam
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor_Slanted
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Aries
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_CataclysmicVariable
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Forager
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_LocusGleam
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Nimrod
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Phaethon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Resheph
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Tumult
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
