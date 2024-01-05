@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
+    <OnlineMode>OFFLINE</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
@@ -145,14 +145,9 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="BaRCore">
-      <Name>2896161103.sbm</Name>
-      <PublishedFileId>2896161103</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="OnyxArmamentCo">
-      <Name>3123483745.sbm</Name>
-      <PublishedFileId>3123483745</PublishedFileId>
+    <ModItem FriendlyName="StarCoreLinkUtility">
+      <Name>2927550954.sbm</Name>
+      <PublishedFileId>2927550954</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WeaponCore - 2.4">
@@ -193,11 +188,6 @@
     <ModItem FriendlyName="StarCorePracticeAI">
       <Name>3024311955.sbm</Name>
       <PublishedFileId>3024311955</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCoreLinkUtility">
-      <Name>2927550954.sbm</Name>
-      <PublishedFileId>2927550954</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCoreCTF">
@@ -370,6 +360,11 @@
       <PublishedFileId>500818376</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="OnyxArmamentCo">
+      <Name>3123483745.sbm</Name>
+      <PublishedFileId>3123483745</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="OldBlockRestrictions">
       <Name>2995125400.sbm</Name>
       <PublishedFileId>2995125400</PublishedFileId>
@@ -470,6 +465,11 @@
       <PublishedFileId>1663539021</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="BaRCore">
+      <Name>2896161103.sbm</Name>
+      <PublishedFileId>2896161103</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
       <Name>2621169600.sbm</Name>
       <PublishedFileId>2621169600</PublishedFileId>
@@ -547,5 +547,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2024-01-04T17:06:28.0882999-06:00</LastSaveTime>
+  <LastSaveTime>2024-01-05T04:53:01.1090247-06:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>

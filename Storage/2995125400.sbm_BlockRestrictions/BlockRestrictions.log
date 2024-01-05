@@ -1,5 +1,5 @@
-[17:06:10.985] [T1] [DS=False] DEBUG | Log Started
-[17:06:11.060] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[04:31:57.187] [T1] [DS=False] DEBUG | Log Started
+[04:31:57.250] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2373,6 +2373,8 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Resheph
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Tumult
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Starcore_AMS_Comm_Block
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
