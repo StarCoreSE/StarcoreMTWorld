@@ -1,5 +1,5 @@
-[12:42:57.511] [T1] [DS=False] DEBUG | Log Started
-[12:42:57.562] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[23:43:22.909] [T1] [DS=False] DEBUG | Log Started
+[23:43:22.950] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1674,6 +1674,7 @@ BeforeStart() - Checking Config for saved settings
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/banshee
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/EXP_Spinal_Ion_Cannon
 ->-> Definition added to restricted list
@@ -1707,103 +1708,103 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ArcMeleeLarge
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_DeskCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Couch
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_CouchCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_PassengerSeat
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Wall
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Akimbo
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_ArmPad
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_ControlSeat
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Normal
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Salute
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_ArmPad_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Bed_Lying
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Bed_Sitting
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Rifle
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_StoreBlock/NPC_Dummies_Store_Standing
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_StoreBlock/NPC_Dummies_Store_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ContractBlock/NPC_Dummies_Contracts_Crates
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ContractBlock/NPC_Dummies_Contracts_Standing
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ContractBlock/NPC_Dummies_Contracts_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_LeaningDesk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_LeaningDesk_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_LeaningRailing
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Normal
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Cup
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Desk
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_DeskCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_PassengerSeat
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Couch
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_CouchCorner
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Normal_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Wall_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Akimbo_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_ArmPad_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Salute_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console_Small_R
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Console_Small_L
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Standing_Rifle_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Normal_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_Standing_Cup_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_StoreBlock/NPC_Dummies_Store_Standing_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_PassengerSeat_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_PassengerSeat_Small_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_PassengerSeat_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_F_PassengerSeat_Small_Offset
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_ControlSeat_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_TextPanel/NPC_Dummies_Cryo_Small
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_SoundBlock/ChetsMagicMusicBox
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Light_Autocannon
@@ -2049,23 +2050,31 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_AirVent/SmallAirVentFull
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/Suspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/Suspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MyProgrammableBlock/6SidePBSmall
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_MyProgrammableBlock/6SidePB
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_OxygenGenerator/Charger
@@ -2101,7 +2110,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/AMP_ImpulseTorch
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Support_Module_Test
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/K_HS_Damnation
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeMissileTurret/KreegMagnetarCannon
@@ -2183,36 +2192,52 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_InteriorLight/LargeBlockInsetKitchen
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/OffroadSmallShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Thrust/LargeBlockLargeFlatAtmosphericThrust
 ->-> Setting added successfully
@@ -2231,36 +2256,52 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Thrust/SmallBlockSmallFlatAtmosphericThrustDShape
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension3x3
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension5x5
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension1x1
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension2x2
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/ShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension3x3mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension5x5mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension1x1mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_MotorSuspension/SmallShortSuspension2x2Mirrored
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_UpgradeModule/SmallLargeBlockUpgrade
 ->-> Setting added successfully
@@ -2377,6 +2418,26 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Tumult
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_AMS_Comm_Block
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/AirtightHangarDoorWarfare2A
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/AirtightHangarDoorWarfare2B
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/AirtightHangarDoorWarfare2C
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/LargeBlockLargeIndustrialContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockSmallContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockMediumContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/SmallBlockLargeContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/LargeBlockSmallContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/LargeBlockLargeContainer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_TerminalBlock/PM_LG_BLASTPLATE_BLASTPLATE
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
