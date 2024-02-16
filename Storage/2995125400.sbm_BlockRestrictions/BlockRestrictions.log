@@ -1,5 +1,5 @@
-[12:50:46.899] [T1] [DS=False] DEBUG | Log Started
-[12:50:46.985] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[12:57:30.873] [T1] [DS=False] DEBUG | Log Started
+[12:57:30.914] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1926,22 +1926,29 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/MA_Gimbal_Laser_sb
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_LargeGatlingTurret/LargeGatlingTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeBlockMediumCalibreTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeCalibreTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/LargeMissileTurret_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_SmallMissileLauncher/LargeMissileLauncher_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeBlockLargeCalibreGun_SC
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/LargeRailgun_SC
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/CLB2X
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/BALLER
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/65_Launcher_FixedMount
 ->-> Setting added successfully
@@ -2584,6 +2591,33 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Collector/SELtdSmallNanobotBuildAndRepairSystem
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Collector/BlinkDriveLarge
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyBolterSmall
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyBolterSmallSponson
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyBolterLargeSponson
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Lascannon
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/BattleCannon
+->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/PlasmaCannon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/EarthshakerCannon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/FluxArcLarge
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/FluxArcSmall
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/MonoWhip
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/MonoWhipSmall
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
