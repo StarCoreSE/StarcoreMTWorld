@@ -1,5 +1,5 @@
-[05:50:15.851] [T1] [DS=False] DEBUG | Log Started
-[05:50:15.929] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[12:50:46.899] [T1] [DS=False] DEBUG | Log Started
+[12:50:46.985] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2582,6 +2582,8 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Collector/SELtdLargeNanobotBuildAndRepairSystem
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Collector/SELtdSmallNanobotBuildAndRepairSystem
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/BlinkDriveLarge
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
