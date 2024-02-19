@@ -1,5 +1,5 @@
-[13:19:35.036] [T1] [DS=False] DEBUG | Log Started
-[13:19:35.084] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[03:12:42.947] [T1] [DS=False] DEBUG | Log Started
+[03:12:43.080] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -1631,6 +1631,7 @@ BeforeStart() - Checking Config for saved settings
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Missile_Battery
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Autocannon
 ->-> Setting added successfully
@@ -1690,6 +1691,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanHangarCompact
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Utility_Launcher
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HakkeroBeamMini
 ->-> Unable to retrieve MyCubeBlockDefinition
@@ -1811,6 +1813,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_SoundBlock/ChetsMagicMusicBox
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Light_Autocannon
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/NHI_Fixed_Light_Gatling_Laser
 ->-> Definition added to restricted list
@@ -2117,7 +2120,7 @@ BeforeStart() - Checking Config for saved settings
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_MammonMK2
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/CapacitorLarge
 ->-> Definition added to restricted list
 ->-> Setting added successfully
