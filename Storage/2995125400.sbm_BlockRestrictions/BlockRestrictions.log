@@ -1,5 +1,5 @@
-[03:12:42.947] [T1] [DS=False] DEBUG | Log Started
-[03:12:43.080] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[23:34:52.624] [T1] [DS=False] DEBUG | Log Started
+[23:34:52.675] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2642,6 +2642,8 @@ BeforeStart() - Checking Config for saved settings
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/MonoWhipSmall
 ->-> Definition added to restricted list
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HAS_Nyx
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
