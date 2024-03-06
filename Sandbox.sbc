@@ -6,7 +6,7 @@
   <SpectatorPosition>
     <Position x="23.090835272933422" y="10018.816325420326" z="26.515991050419053" />
     <Forward x="-0.5773503" y="-0.577350259" z="-0.577350259" />
-    <Up x="-0.408248276" y="0.8164966" z="-0.408248246" />
+    <Up x="-0.4082483" y="0.8164966" z="-0.408248276" />
     <Orientation>
       <X>-0.279848129</X>
       <Y>0.3647052</Y>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>16</MaxPlayers>
+    <MaxPlayers>32</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>20000</SyncDistance>
+    <SyncDistance>25000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -806,11 +806,6 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
-    <ModItem FriendlyName="SC_HitSounds">
-      <Name>3173935498.sbm</Name>
-      <PublishedFileId>3173935498</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - Dense">
       <Name>3166553368.sbm</Name>
       <PublishedFileId>3166553368</PublishedFileId>
@@ -1221,8 +1216,13 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2956906605</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="ModAdjusterV2">
+      <Name>3017795356.sbm</Name>
+      <PublishedFileId>3017795356</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1537,8 +1537,6 @@ SiegeCooldownTimer=18000
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64397,7 +64395,4 @@ SiegeCooldownTimer=18000
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
