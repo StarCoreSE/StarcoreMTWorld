@@ -1,5 +1,5 @@
-[21:48:44.236] [T1] [DS=False] DEBUG | Log Started
-[21:48:44.279] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[10:05:21.514] [T1] [DS=False] DEBUG | Log Started
+[10:05:21.566] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -747,7 +747,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Null_Point_Jump_Disruptor_Large
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Torp_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/UNSC_Coilgun_Block
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Thrust/AWGFocusDrive
@@ -1833,9 +1833,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/Heavy_Repeater
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Type18_Artillery
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Type21_Artillery
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Light_Coil_Turret
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Assault_Coil_Turret
@@ -2107,7 +2107,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanHangarFighter
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Cyclops
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_RCS_Computer
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_RCS_Computer_small
@@ -2117,7 +2117,6 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanHangarBomberMedium
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Crossfield
-->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_MammonMK2
 ->-> Setting added successfully
@@ -2139,9 +2138,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_LargeMissileTurret/KreegMagnetarCannon
 ->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer_Angled
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ButtonPanel/LargeButtonPanelPedestal
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ButtonPanel/SmallButtonPanelPedestal
@@ -2332,21 +2331,21 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_UpgradeModule/LargeLargeBlockUpgrade
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Reaver_Coilgun_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Priest_Block
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Type18_Artillery_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Type21_Artillery_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Type24_Artillery_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Type77_Railgun_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Type78_Railgun_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/Type79_Railgun_Block
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_Collector/SC_PowerControlSystem_L
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Collector/SC_PowerControlSystem_S
@@ -2386,9 +2385,9 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_Radome
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer_Flipped
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Thagomizer_Angled_Flipped
-->-> Unable to retrieve MyCubeBlockDefinition
+->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverEVEDepot
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/TaiidanRailBomberAdmin
@@ -2426,19 +2425,19 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Afflictor_Slanted
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Aries
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_CataclysmicVariable
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Forager
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_LocusGleam
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Nimrod
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Phaethon
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Resheph
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Tumult
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Starcore_AMS_Comm_Block
@@ -2644,6 +2643,60 @@ BeforeStart() - Checking Config for saved settings
 ->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/HAS_Nyx
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/DualSnubLaserTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/DualPulseLaserTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/APE_Strong
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/X4_7x7_HeavyTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Devastator_Torp
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/GoalieCasemate
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HadeanPlasmaBlastgun
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/DrunkRocketTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/KreegMagnetarCannon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyFighterBay
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Reaver_Coilgun
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/HeavyCarronade_5x5_Turret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/UnguidedRocketTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/NavalHeavyGaussRifle
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Type19_Driver
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Type22_Driver
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Type24_Artillery
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Type25_Driver
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_LargeMissileTurret/VindicatorKineticLance
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Deimos
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Eris
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_FocusedBeam
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Heliod
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_MagnaStar
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/SC_AR_Phobos
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/EntityCoverContainerL
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_BatteryBlock/EntityCoverEveDerelict
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components

@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
+    <OnlineMode>OFFLINE</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
@@ -145,6 +145,11 @@
     <EnableTrashSettingsPlatformOverride>true</EnableTrashSettingsPlatformOverride>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="SCEntityCover">
+      <Name>3007088668.sbm</Name>
+      <PublishedFileId>3007088668</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore-StarCore">
       <Name>3149625043.sbm</Name>
       <PublishedFileId>3149625043</PublishedFileId>
@@ -298,11 +303,6 @@
     <ModItem FriendlyName="SCMobilityBlocks">
       <Name>3020885446.sbm</Name>
       <PublishedFileId>3020885446</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCDefenseBlocks">
@@ -465,7 +465,7 @@
       <PublishedFileId>806331071</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="BuildInfo (extra block+terminal info, air leak finder)">
+    <ModItem FriendlyName="Build Info">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
@@ -562,5 +562,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2024-03-03T23:35:08.3991288-06:00</LastSaveTime>
+  <LastSaveTime>2024-03-18T10:06:38.1553954-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
