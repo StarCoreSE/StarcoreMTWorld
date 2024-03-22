@@ -1,5 +1,5 @@
-[10:05:21.514] [T1] [DS=False] DEBUG | Log Started
-[10:05:21.566] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[14:32:08.751] [T1] [DS=False] DEBUG | Log Started
+[14:32:08.825] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2209,6 +2209,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ButtonPanel/LargeBlockInsetButtonPanel
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Jukebox/LargeBlockInsetEntertainmentCorner
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_CargoContainer/LargeBlockInsetBookshelf
 ->-> Setting added successfully
