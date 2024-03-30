@@ -1,5 +1,5 @@
-[14:32:08.751] [T1] [DS=False] DEBUG | Log Started
-[14:32:08.825] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[16:42:30.894] [T1] [DS=False] DEBUG | Log Started
+[16:42:30.958] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2378,6 +2378,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverFractal
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Collector/SI_Field_Gen
+->-> Definition added to restricted list
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_Collector/ShipyardCorner_Large
 ->-> Unable to retrieve MyCubeBlockDefinition
@@ -2698,6 +2699,10 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverContainerL
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_BatteryBlock/EntityCoverEveDerelict
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Thrust/Caster_FocusLens
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Reactor/Caster_Reactor
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components

@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>978783200000</ElapsedGameTime>
+  <ElapsedGameTime>979845920000</ElapsedGameTime>
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
-    <Position x="326.35170880036907" y="3115.847751398589" z="-3937.2019395837556" />
-    <Forward x="-0.16905643" y="-0.635926843" z="0.7530052" />
-    <Up x="0.9713555" y="0.0219496638" z="0.236614913" />
+    <Position x="-9169.634367444105" y="3320.0645255089803" z="-1799.4910529022909" />
+    <Forward x="0.932370365" y="-0.2902317" z="0.215525" />
+    <Up x="0.250409573" y="0.948504" z="0.193998232" />
     <Orientation>
-      <X>0.625311434</X>
-      <Y>0.696769834</Y>
-      <Z>0.313066721</Z>
-      <W>-0.15964523</W>
+      <X>-0.0396557078</X>
+      <Y>-0.778582</Y>
+      <Z>-0.155484557</Z>
+      <W>0.606681168</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="12.7834091" y="1" />
+  <SpectatorSpeed x="327.624756" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>142040132107931631</CameraEntity>
   <ControlledObject>142040132107931631</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-03-22T14:35:25.9499388-05:00</LastSaveTime>
+  <LastSaveTime>2024-03-30T16:44:23.9868034-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -1232,7 +1232,6 @@ SiegeCooldownTimer=18000
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1243,11 +1242,11 @@ SiegeCooldownTimer=18000
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3542725-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters>
         <long>142040132107931631</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-03-22T14:35:25.9509386-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-03-30T16:44:23.9868034-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-7180.1989407034152</X>
@@ -1262,7 +1261,7 @@ SiegeCooldownTimer=18000
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3532795-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.0837142-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1275,7 +1274,7 @@ SiegeCooldownTimer=18000
       <DisplayName>ADM NPC9445</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3532795-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1288,7 +1287,7 @@ SiegeCooldownTimer=18000
       <DisplayName>OUT NPC1742</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3532795-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1301,7 +1300,7 @@ SiegeCooldownTimer=18000
       <DisplayName>NEU NPC3649</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3532795-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1314,7 +1313,7 @@ SiegeCooldownTimer=18000
       <DisplayName>BLU NPC1764</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3532795-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1327,7 +1326,7 @@ SiegeCooldownTimer=18000
       <DisplayName>RED NPC6284</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:06.3532795-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:27.47349-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1340,7 +1339,7 @@ SiegeCooldownTimer=18000
       <DisplayName>Pirate</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-03-22T14:32:09.6634019-05:00</LastLoginTime>
+      <LastLoginTime>2024-03-30T16:42:32.0664334-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:43.2247148-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1547,8 +1546,6 @@ SiegeCooldownTimer=18000
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -1721,7 +1718,7 @@ SiegeCooldownTimer=18000
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.421464056" y="0.476542354" z="-0.771541059" />
+      <SunDirectionNormalized x="-0.4279415" y="0.4724631" z="-0.7704835" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-7042660506472184355</PlanetId>
@@ -64099,7 +64096,7 @@ SiegeCooldownTimer=18000
       <StateMachines xsi:nil="true" />
       <Questlog>
         <LineData />
-        <Title />
+        <Title>Fusion Systems</Title>
         <Visible>false</Visible>
         <IsUsedByVisualScripting>false</IsUsedByVisualScripting>
       </Questlog>
@@ -64110,7 +64107,7 @@ SiegeCooldownTimer=18000
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>114449</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>105116</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64370,7 +64367,4 @@ SiegeCooldownTimer=18000
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
