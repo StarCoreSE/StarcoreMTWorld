@@ -5,8 +5,8 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="326.35170880036907" y="3115.847751398589" z="-3937.2019395837556" />
-    <Forward x="-0.16905646" y="-0.6359269" z="0.753005266" />
-    <Up x="0.971355557" y="0.021949647" z="0.236614943" />
+    <Forward x="-0.16905643" y="-0.635926843" z="0.7530052" />
+    <Up x="0.9713555" y="0.0219496638" z="0.236614913" />
     <Orientation>
       <X>0.625311434</X>
       <Y>0.696769834</Y>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -806,6 +806,11 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="StarCore Skybox - COLDGREENICE">
+      <Name>3206763981.sbm</Name>
+      <PublishedFileId>3206763981</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCEntityCover">
       <Name>3007088668.sbm</Name>
       <PublishedFileId>3007088668</PublishedFileId>
@@ -869,11 +874,6 @@ SiegeCooldownTimer=18000
     <ModItem FriendlyName="StarCore Tournament Weapon Category">
       <Name>2785856511.sbm</Name>
       <PublishedFileId>2785856511</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - bluecoldring">
-      <Name>3189761489.sbm</Name>
-      <PublishedFileId>3189761489</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Starcore Sharetrack - Ship Points">
@@ -1221,7 +1221,18 @@ SiegeCooldownTimer=18000
       <PublishedFileId>2956906605</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Starcore Modular Assemblies">
+      <Name>3130656054.sbm</Name>
+      <PublishedFileId>3130656054</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Fusion Systems [Modular Assemblies]">
+      <Name>3130656484.sbm</Name>
+      <PublishedFileId>3130656484</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1536,6 +1547,8 @@ SiegeCooldownTimer=18000
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64357,4 +64370,7 @@ SiegeCooldownTimer=18000
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
