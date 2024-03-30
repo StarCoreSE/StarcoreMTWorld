@@ -560,6 +560,16 @@
       <PublishedFileId>2956906605</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Starcore Modular Assemblies">
+      <Name>3130656054.sbm</Name>
+      <PublishedFileId>3130656054</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="Fusion Systems [Modular Assemblies]">
+      <Name>3130656484.sbm</Name>
+      <PublishedFileId>3130656484</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
   <LastSaveTime>2024-03-22T14:35:25.9499388-05:00</LastSaveTime>
