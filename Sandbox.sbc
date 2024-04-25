@@ -5,12 +5,12 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="-9169.634367444105" y="3320.0645255089803" z="-1799.4910529022909" />
-    <Forward x="0.932370365" y="-0.2902317" z="0.215525" />
-    <Up x="0.250409573" y="0.948504" z="0.193998232" />
+    <Forward x="0.9323703" y="-0.2902317" z="0.215524957" />
+    <Up x="0.250409544" y="0.948504" z="0.1939982" />
     <Orientation>
-      <X>-0.0396557078</X>
+      <X>-0.03965572</X>
       <Y>-0.778582</Y>
-      <Z>-0.155484557</Z>
+      <Z>-0.155484572</Z>
       <W>0.606681168</W>
     </Orientation>
   </SpectatorPosition>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -806,6 +806,11 @@ SiegeCooldownTimer=18000
     </PlayerToFactionsVis>
   </Factions>
   <Mods>
+    <ModItem FriendlyName="Fletcher Armaments Starcore">
+      <Name>2949963748.sbm</Name>
+      <PublishedFileId>2949963748</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="WeaponCore-StarCore">
       <Name>3149625043.sbm</Name>
       <PublishedFileId>3149625043</PublishedFileId>
@@ -1232,6 +1237,7 @@ SiegeCooldownTimer=18000
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1546,6 +1552,8 @@ SiegeCooldownTimer=18000
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64367,4 +64375,7 @@ SiegeCooldownTimer=18000
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
