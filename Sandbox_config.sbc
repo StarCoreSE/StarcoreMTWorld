@@ -575,6 +575,12 @@
       <PublishedFileId>2956906605</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Warhammer Icons">
+      <Name>3244573342.sbm</Name>
+      <PublishedFileId>3244573342</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+      <IsDependency>true</IsDependency>
+    </ModItem>	
   </Mods>
   <SessionName>Starcore MT</SessionName>
   <LastSaveTime>2024-03-30T16:44:23.9868034-05:00</LastSaveTime>
