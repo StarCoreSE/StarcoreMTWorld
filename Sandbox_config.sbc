@@ -373,6 +373,11 @@
       <PublishedFileId>3149648890</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="PickmeRevengeance + FactionControl">
+      <Name>2986589130.sbm</Name>
+      <PublishedFileId>2986589130</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
       <Name>500818376.sbm</Name>
       <PublishedFileId>500818376</PublishedFileId>
