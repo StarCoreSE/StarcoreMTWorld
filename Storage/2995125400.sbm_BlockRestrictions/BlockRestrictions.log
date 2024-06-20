@@ -1,5 +1,5 @@
-[00:19:19.999] [T1] [DS=False] DEBUG | Log Started
-[00:19:20.048] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[17:51:57.118] [T1] [DS=False] DEBUG | Log Started
+[17:51:57.192] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2693,7 +2693,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_Reactor/Caster_Reactor
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/15cmTbtsKC36
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/127mmMk32
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_LargeMissileTurret/127mmMk12
@@ -2709,7 +2709,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/381mmDualNR
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/15cmSKC28R
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/15cmSKC28NR
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/380mmMLE1935
@@ -2729,7 +2729,7 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_ConveyorSorter/20InchTwin
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/BoforSingleRemodel
-->-> Setting added successfully
+->-> Unable to retrieve MyCubeBlockDefinition
 -> Setting = MyObjectBuilder_ConveyorSorter/BoforTwinRemodel
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_ConveyorSorter/Mk25Rangefinder

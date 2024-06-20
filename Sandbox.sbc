@@ -1,34 +1,42 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>987970720000</ElapsedGameTime>
+  <ElapsedGameTime>990717600000</ElapsedGameTime>
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
-    <Position x="899.30999755859386" y="899.30999755859386" z="899.30999755859386" />
-    <Forward x="-0.577350259" y="-0.577350259" z="-0.577350259" />
-    <Up x="-0.4082483" y="0.8164966" z="-0.4082483" />
+    <Position x="9487.2178900291656" y="-1.7185264045278938" z="-7.0540379556423476" />
+    <Forward x="0.6959673" y="-0.171889424" z="0.6971969" />
+    <Up x="-0.174891859" y="-0.9822651" z="-0.0675877556" />
     <Orientation>
-      <X>-0.279848129</X>
-      <Y>0.3647052</Y>
-      <Z>0.115916893</Z>
-      <W>0.880476236</W>
+      <X>0.918682754</X>
+      <Y>-0.06797424</Y>
+      <Z>-0.383607328</Z>
+      <W>-0.06516863</W>
     </Orientation>
   </SpectatorPosition>
-  <SpectatorSpeed x="327.624756" y="1" />
+  <SpectatorSpeed x="0.09852616" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
   <CameraController>Entity</CameraController>
   <CameraEntity>142040132107931631</CameraEntity>
   <ControlledObject>142040132107931631</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-06-18T00:18:30.1239319-05:00</LastSaveTime>
+  <LastSaveTime>2024-06-20T17:56:46.6294382-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
     <SelectedSlot xsi:nil="true" />
-    <Slots />
+    <Slots>
+      <Slot>
+        <Index>0</Index>
+        <Item />
+        <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+          <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="EntityCoverEVEDepot" />
+        </Data>
+      </Slot>
+    </Slots>
     <SlotsGamepad />
   </CharacterToolbar>
   <ControlledEntities>
@@ -51,7 +59,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +130,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -843,6 +851,11 @@ SiegePowerPercentage=0.9
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="StarCore Skybox - FrigidityRing">
+      <Name>3271833241.sbm</Name>
+      <PublishedFileId>3271833241</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Dynamic Asteroids">
       <Name>3262577158.sbm</Name>
       <PublishedFileId>3262577158</PublishedFileId>
@@ -851,11 +864,6 @@ SiegePowerPercentage=0.9
     <ModItem FriendlyName="StarCore Gamemodes">
       <Name>3258473302.sbm</Name>
       <PublishedFileId>3258473302</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="StarCore Skybox - Magellanic">
-      <Name>3251198297.sbm</Name>
-      <PublishedFileId>3251198297</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Fletcher Armaments Starcore">
@@ -1279,11 +1287,11 @@ SiegePowerPercentage=0.9
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.0222222228" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters>
         <long>142040132107931631</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-06-18T00:18:30.1239319-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-06-20T17:56:46.6294382-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-7180.1989407034152</X>
@@ -1298,7 +1306,7 @@ SiegePowerPercentage=0.9
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.0837142-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1311,7 +1319,7 @@ SiegePowerPercentage=0.9
       <DisplayName>ADM NPC9445</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1324,7 +1332,7 @@ SiegePowerPercentage=0.9
       <DisplayName>OUT NPC1742</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1337,7 +1345,7 @@ SiegePowerPercentage=0.9
       <DisplayName>NEU NPC3649</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1350,7 +1358,7 @@ SiegePowerPercentage=0.9
       <DisplayName>BLU NPC1764</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1363,7 +1371,7 @@ SiegePowerPercentage=0.9
       <DisplayName>RED NPC6284</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:51.1310914-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:55.8225527-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1376,7 +1384,7 @@ SiegePowerPercentage=0.9
       <DisplayName>Pirate</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-06-18T00:16:53.6880929-05:00</LastLoginTime>
+      <LastLoginTime>2024-06-20T17:51:59.1009893-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:43.2247148-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1402,19 +1410,22 @@ SiegePowerPercentage=0.9
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
-            <Slots />
+            <Slots>
+              <Slot>
+                <Index>0</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="EntityCoverEVEDepot" />
+                </Data>
+              </Slot>
+            </Slots>
             <SlotsGamepad />
           </Toolbar>
           <EntityCameraData>
-            <CameraControllerSettings EntityId="136823035716546615">
-              <IsFirstPerson>false</IsFirstPerson>
-              <Distance>200</Distance>
-              <HeadAngle x="-45.57904" y="333.364777" />
-            </CameraControllerSettings>
             <CameraControllerSettings EntityId="142040132107931631">
               <IsFirstPerson>false</IsFirstPerson>
               <Distance>2.5</Distance>
-              <HeadAngle x="-0.0004285674" y="0" />
+              <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -1490,7 +1501,7 @@ SiegePowerPercentage=0.9
             </Vector3>
           </BuildColorSlots>
           <CreativeToolsEnabled>false</CreativeToolsEnabled>
-          <RemoteAdminSettings>0</RemoteAdminSettings>
+          <RemoteAdminSettings>20</RemoteAdminSettings>
           <PromoteLevel>None</PromoteLevel>
           <BuildArmorSkin />
           <BuildColorSlot>0</BuildColorSlot>
@@ -1760,7 +1771,7 @@ SiegePowerPercentage=0.9
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.4765953" y="0.440359" z="-0.7608817" />
+      <SunDirectionNormalized x="-0.49267602" y="0.429152131" z="-0.757033" />
       <WeatherPlanetData />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentAssetModifiers" />
@@ -64143,12 +64154,12 @@ SiegePowerPercentage=0.9
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>111316</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>37400</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
       <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
-      <LastCoordSysId>58</LastCoordSysId>
+      <LastCoordSysId>60</LastCoordSysId>
       <CoordSystems>
         <CoordSysInfo>
           <Id>10</Id>
@@ -64157,10 +64168,10 @@ SiegePowerPercentage=0.9
           <Position x="-0.872337518398485" y="7490.6759502386985" z="-1.0232946140118555" />
         </CoordSysInfo>
         <CoordSysInfo>
-          <Id>14</Id>
+          <Id>59</Id>
           <EntityCount>1</EntityCount>
-          <Rotation x="0.706374764" y="-0.008745912" z="-0.0119082937" w="0.707683861" />
-          <Position x="7493.8675307025269" y="1.3025863270105607" z="2.8746436115459559" />
+          <Rotation x="-0.70768404" y="0.011908371" z="-0.008745939" w="0.7063745" />
+          <Position x="9498.93319359244" y="5.2891196179032267" z="2.0156624431342043" />
         </CoordSysInfo>
         <CoordSysInfo>
           <Id>12</Id>
@@ -64169,22 +64180,10 @@ SiegePowerPercentage=0.9
           <Position x="-1.0789176695659535" y="-2.2786552819698258" z="-0.99261005804476365" />
         </CoordSysInfo>
         <CoordSysInfo>
-          <Id>13</Id>
+          <Id>58</Id>
           <EntityCount>1</EntityCount>
-          <Rotation x="-0.0204231944" y="-0.6946612" z="0.7186394" w="0.0242102444" />
-          <Position x="-7500.0680433170519" y="4.0042986664721507" z="4.3517588429631378" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>40</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="-1.245035E-17" y="0.70710665" z="1.2450347E-17" w="0.7071069" />
-          <Position x="8099.228555089031" y="-7.64102613611334" z="8.101046653012391" />
-        </CoordSysInfo>
-        <CoordSysInfo>
-          <Id>46</Id>
-          <EntityCount>1</EntityCount>
-          <Rotation x="-0.0343058966" y="-0.7047563" z="-0.0103277713" w="0.7085443" />
-          <Position x="-8037.1615110472148" y="-72.122144744894655" z="51.9765760350242" />
+          <Rotation x="0.0242102426" y="0.718639135" z="0.694661438" w="0.0204231963" />
+          <Position x="-9498.3348770799257" y="6.6210384893630589" z="-1.0294551278697597" />
         </CoordSysInfo>
       </CoordSystems>
     </MyObjectBuilder_SessionComponent>
@@ -64373,16 +64372,7 @@ SiegePowerPercentage=0.9
       <SavedEncounters />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_WorldGenerator">
-      <MarkedAreas>
-        <EmptyArea>
-          <Position>
-            <X>12.5</X>
-            <Y>12.5</Y>
-            <Z>12.5</Z>
-          </Position>
-          <Radius>505</Radius>
-        </EmptyArea>
-      </MarkedAreas>
+      <MarkedAreas />
       <DeletedAreas />
       <ExistingObjectsSeeds />
     </MyObjectBuilder_SessionComponent>
@@ -64397,9 +64387,46 @@ SiegePowerPercentage=0.9
   <InGameTime>2081-01-01T07:00:00</InGameTime>
   <CustomSkybox />
   <RequiresDX>11</RequiresDX>
-  <VicinityModelsCache />
+  <VicinityModelsCache>
+    <string>Models\Cubes\Large\MotorRotor.mwm</string>
+    <string>Models\Cubes\Large\LCDPanel.mwm</string>
+    <string>Models\Cubes\Large\RotatingLight.mwm</string>
+    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
+    <string>Models\Cubes\Large\GravityGenerator.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2953252400\Models\MA_Laser2\MA_Interior_Light.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2425204399\Models\Starcore Decal Logo Emissive 5x1x5.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2425204399\Models\Starcore Decal Logo Colorable 1x1x1.mwm</string>
+    <string>Models\Cubes\Large\TextPanel.mwm</string>
+    <string>Models\Cubes\Large\ArmorCorner.mwm</string>
+    <string>Models\Cubes\Large\AntennaDish.mwm</string>
+    <string>Models\Cubes\Large\ArmorSide.mwm</string>
+    <string>Models\Cubes\large\Corner_LCD_1.mwm</string>
+    <string>Models\Cubes\Large\MedicalRoom.mwm</string>
+    <string>O:\SteamLibrary\steamapps\workshop\content\244850\2425204399\Models\StarCore skinable 5x5x1.mwm</string>
+    <string>Models\Cubes\Large\MotorStator.mwm</string>
+  </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
