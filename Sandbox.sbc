@@ -5,8 +5,8 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="9487.2178900291656" y="-1.7185264045278938" z="-7.0540379556423476" />
-    <Forward x="0.6959673" y="-0.171889424" z="0.6971969" />
-    <Up x="-0.174891859" y="-0.9822651" z="-0.0675877556" />
+    <Forward x="0.6959673" y="-0.171889424" z="0.69719696" />
+    <Up x="-0.174891844" y="-0.9822651" z="-0.06758775" />
     <Orientation>
       <X>0.918682754</X>
       <Y>-0.06797424</Y>
@@ -59,7 +59,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -130,7 +130,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -851,6 +851,11 @@ SiegePowerPercentage=0.9
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Deformation-B-Gon">
+      <Name>3230011090.sbm</Name>
+      <PublishedFileId>3230011090</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - FrigidityRing">
       <Name>3271833241.sbm</Name>
       <PublishedFileId>3271833241</PublishedFileId>
@@ -1277,6 +1282,7 @@ SiegePowerPercentage=0.9
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1594,6 +1600,8 @@ SiegePowerPercentage=0.9
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64430,4 +64438,7 @@ SiegePowerPercentage=0.9
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
