@@ -163,11 +163,6 @@
       <PublishedFileId>3271833241</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Dynamic Asteroids">
-      <Name>3262577158.sbm</Name>
-      <PublishedFileId>3262577158</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Gamemodes">
       <Name>3258473302.sbm</Name>
       <PublishedFileId>3258473302</PublishedFileId>
@@ -296,11 +291,6 @@
     <ModItem FriendlyName="Starcore Basic Greebles">
       <Name>2897767540.sbm</Name>
       <PublishedFileId>2897767540</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Starcore Asteroid Generator">
-      <Name>2903181153.sbm</Name>
-      <PublishedFileId>2903181153</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="StarCore Arcane Weaponry">
