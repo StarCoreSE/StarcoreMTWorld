@@ -153,11 +153,6 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="Deformation-B-Gon">
-      <Name>3230011090.sbm</Name>
-      <PublishedFileId>3230011090</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - FrigidityRing">
       <Name>3271833241.sbm</Name>
       <PublishedFileId>3271833241</PublishedFileId>
