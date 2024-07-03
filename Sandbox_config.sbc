@@ -158,6 +158,11 @@
       <PublishedFileId>3271833241</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="StarCore Gamemodes">
+      <Name>3258473302.sbm</Name>
+      <PublishedFileId>3258473302</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Fletcher Armaments Starcore">
       <Name>2949963748.sbm</Name>
       <PublishedFileId>2949963748</PublishedFileId>
@@ -238,6 +243,11 @@
       <PublishedFileId>2973091771</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="Starcore Paperdoll">
+      <Name>2846569122.sbm</Name>
+      <PublishedFileId>2846569122</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Modular Assemblies">
       <Name>3130656054.sbm</Name>
       <PublishedFileId>3130656054</PublishedFileId>
@@ -308,6 +318,16 @@
       <PublishedFileId>3007088668</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="SCDefenseBlocks">
+      <Name>3023988614.sbm</Name>
+      <PublishedFileId>3023988614</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SETacView Demo - Replay System">
+      <Name>2975063364.sbm</Name>
+      <PublishedFileId>2975063364</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCCleanModCategories">
       <Name>2893360222.sbm</Name>
       <PublishedFileId>2893360222</PublishedFileId>
@@ -331,6 +351,11 @@
     <ModItem FriendlyName="SC_RelativeTopSpeed_Logarithmic_Angular">
       <Name>3206802244.sbm</Name>
       <PublishedFileId>3206802244</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="SC_HitSounds">
+      <Name>3173935498.sbm</Name>
+      <PublishedFileId>3173935498</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Rich HUD Master">
@@ -428,6 +453,11 @@
       <PublishedFileId>3149619582</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
+    <ModItem FriendlyName="DamageInfo">
+      <Name>3109350369.sbm</Name>
+      <PublishedFileId>3109350369</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Control Module - basically key binding for ships">
       <Name>655948251.sbm</Name>
       <PublishedFileId>655948251</PublishedFileId>
@@ -451,6 +481,11 @@
     <ModItem FriendlyName="Build Info">
       <Name>514062285.sbm</Name>
       <PublishedFileId>514062285</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
+    <ModItem FriendlyName="BaRCore">
+      <Name>2896161103.sbm</Name>
+      <PublishedFileId>2896161103</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="AQD - Upgradeable Gyroscopes">
