@@ -93,8 +93,18 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
+<<<<<<< HEAD
     <OnlineMode>OFFLINE</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
+=======
+<<<<<<< HEAD
+    <OnlineMode>PUBLIC</OnlineMode>
+    <MaxPlayers>32</MaxPlayers>
+=======
+    <OnlineMode>PUBLIC</OnlineMode>
+    <MaxPlayers>32</MaxPlayers>
+>>>>>>> c7ef588df09399d3d42f0f5b0bfb91e27a665ab2
+>>>>>>> 8946df88b68510503ffe609d6b31532fa51babc8
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
