@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>PUBLIC</OnlineMode>
+    <OnlineMode>OFFLINE</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
@@ -153,6 +153,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="SCEntityCover">
+      <Name>3007088668.sbm</Name>
+      <PublishedFileId>3007088668</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - ThinFrigidNitrogen">
       <Name>3299459609.sbm</Name>
       <PublishedFileId>3299459609</PublishedFileId>
@@ -311,11 +316,6 @@
     <ModItem FriendlyName="SCMobilityBlocks">
       <Name>3020885446.sbm</Name>
       <PublishedFileId>3020885446</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCEntityCover">
-      <Name>3007088668.sbm</Name>
-      <PublishedFileId>3007088668</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCDefenseBlocks">
@@ -575,5 +575,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2024-07-19T19:18:10.4773227-05:00</LastSaveTime>
+  <LastSaveTime>2024-07-30T01:56:30.0343824-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
