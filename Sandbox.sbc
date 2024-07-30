@@ -95,7 +95,7 @@
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
 <<<<<<< HEAD
     <OnlineMode>OFFLINE</OnlineMode>
-    <MaxPlayers>16</MaxPlayers>
+    <MaxPlayers>32</MaxPlayers>
 =======
 <<<<<<< HEAD
     <OnlineMode>PUBLIC</OnlineMode>
