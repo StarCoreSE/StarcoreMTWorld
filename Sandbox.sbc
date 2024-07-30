@@ -6,12 +6,12 @@
   <SpectatorPosition>
     <Position x="-9497.3501866395472" y="-3.4069399710144821" z="-1.4976348528944079" />
     <Forward x="-0.8849046" y="0.147169292" z="-0.441910684" />
-    <Up x="-0.1461019" y="-0.9885898" z="-0.0366676077" />
+    <Up x="-0.146101892" y="-0.9885898" z="-0.0366676152" />
     <Orientation>
       <X>0.5254556</X>
-      <Y>-0.0542316251</Y>
+      <Y>-0.05423163</Y>
       <Z>0.8474617</Z>
-      <W>0.05257422</W>
+      <W>0.0525742173</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="0.0437893979" y="1" />
@@ -94,7 +94,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -165,7 +165,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -877,6 +877,11 @@ SiegePowerPercentage=0.9
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Cast Spectator - StarCore">
+      <Name>3299682578.sbm</Name>
+      <PublishedFileId>3299682578</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="SCEntityCover">
       <Name>3007088668.sbm</Name>
       <PublishedFileId>3007088668</PublishedFileId>
@@ -1190,11 +1195,6 @@ SiegePowerPercentage=0.9
     <ModItem FriendlyName="Combat Zone Muzzmod">
       <Name>2759080043.sbm</Name>
       <PublishedFileId>2759080043</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Cast Spectator">
-      <Name>2968491433.sbm</Name>
-      <PublishedFileId>2968491433</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Camera Panning - rotate camera view (+reset 1st person character view)">
