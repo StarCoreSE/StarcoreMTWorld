@@ -8,7 +8,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
 <<<<<<< HEAD
-    <OnlineMode>OFFLINE</OnlineMode>
+    <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>32</MaxPlayers>
 =======
     <OnlineMode>PUBLIC</OnlineMode>
