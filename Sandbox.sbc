@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1054631520000</ElapsedGameTime>
+  <ElapsedGameTime>1056314080000</ElapsedGameTime>
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
-    <Position x="-9926.9585329693618" y="-1064.6458610941909" z="-98.574720502681245" />
-    <Forward x="0.9654079" y="0.259193033" z="0.02840215" />
-    <Up x="0.260741979" y="-0.960136056" z="-0.100760341" />
+    <Position x="-9926.9585329693673" y="-1064.6458610941913" z="-98.574720502681345" />
+    <Forward x="0.965407848" y="0.259193" z="0.0284021478" />
+    <Up x="0.260741949" y="-0.960135937" z="-0.100760326" />
     <Orientation>
       <X>0.705282152</X>
-      <Y>0.129530579</Y>
+      <Y>0.129530564</Y>
       <Z>-0.694726646</Z>
-      <W>0.05615933</W>
+      <W>0.0561593249</W>
     </Orientation>
   </SpectatorPosition>
   <SpectatorSpeed x="43.1439972" y="1" />
@@ -21,7 +21,7 @@
   <ControlledObject>142040132107931631</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2024-07-31T20:52:07.4426325-05:00</LastSaveTime>
+  <LastSaveTime>2024-08-17T19:30:18.4237316-05:00</LastSaveTime>
   <SpectatorDistance>2.5</SpectatorDistance>
   <WorkshopId xsi:nil="true" />
   <WorkshopId1 xsi:nil="true" />
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -834,6 +834,11 @@ SiegePowerPercentage=0.9
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="ULTRABLOCKDEBUGGER">
+      <Name>3311261138.sbm</Name>
+      <PublishedFileId>3311261138</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="Block Culling">
       <Name>3237260730.sbm</Name>
       <PublishedFileId>3237260730</PublishedFileId>
@@ -1260,7 +1265,6 @@ SiegePowerPercentage=0.9
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
-  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1268,14 +1272,14 @@ SiegePowerPercentage=0.9
       <IdentityId>144115188075855873</IdentityId>
       <DisplayName>Invalid</DisplayName>
       <CharacterEntityId>142040132107931631</CharacterEntityId>
-      <Model>Astronaut 5x (Ascended Spessman)</Model>
+      <Model>Default_Astronaut</Model>
       <ColorMask x="0.127777785" y="0" z="7.450581E-09" />
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5736088-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3812585-05:00</LastLoginTime>
       <SavedCharacters>
         <long>142040132107931631</long>
       </SavedCharacters>
-      <LastLogoutTime>2024-07-31T20:52:07.4436325-05:00</LastLogoutTime>
+      <LastLogoutTime>2024-08-17T19:30:18.42423-05:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-7180.1989407034152</X>
@@ -1290,7 +1294,7 @@ SiegePowerPercentage=0.9
       <DisplayName>Space Pirates</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5731086-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3807582-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.0837142-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1303,7 +1307,7 @@ SiegePowerPercentage=0.9
       <DisplayName>ADM NPC9445</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5731086-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3807582-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1316,7 +1320,7 @@ SiegePowerPercentage=0.9
       <DisplayName>OUT NPC1742</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5731086-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3807582-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1329,7 +1333,7 @@ SiegePowerPercentage=0.9
       <DisplayName>NEU NPC3649</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5731086-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3807582-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1342,7 +1346,7 @@ SiegePowerPercentage=0.9
       <DisplayName>BLU NPC1764</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5731086-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3807582-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1355,7 +1359,7 @@ SiegePowerPercentage=0.9
       <DisplayName>RED NPC6284</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:52.5731086-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:17.3807582-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:42.4997146-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1368,7 +1372,7 @@ SiegePowerPercentage=0.9
       <DisplayName>Pirate</DisplayName>
       <CharacterEntityId>0</CharacterEntityId>
       <BlockLimitModifier>0</BlockLimitModifier>
-      <LastLoginTime>2024-07-31T20:44:56.9911105-05:00</LastLoginTime>
+      <LastLoginTime>2024-08-17T19:27:21.9227549-05:00</LastLoginTime>
       <SavedCharacters />
       <LastLogoutTime>2023-09-08T05:47:43.2247148-05:00</LastLogoutTime>
       <RespawnShips />
@@ -1399,9 +1403,9 @@ SiegePowerPercentage=0.9
           </Toolbar>
           <EntityCameraData>
             <CameraControllerSettings EntityId="142040132107931631">
-              <IsFirstPerson>false</IsFirstPerson>
+              <IsFirstPerson>true</IsFirstPerson>
               <Distance>2.5</Distance>
-              <HeadAngle x="3.16037655" y="0" />
+              <HeadAngle x="-0.158018678" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -1570,8 +1574,6 @@ SiegePowerPercentage=0.9
       </item>
     </dictionary>
   </AllPlayersColors>
-  <ChatHistory />
-  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -1749,7 +1751,7 @@ SiegePowerPercentage=0.9
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
       <BaseSunDirection x="0.339467347" y="0.709795356" z="-0.617213368" />
-      <SunDirectionNormalized x="-0.7990753" y="0.130205244" z="-0.586962759" />
+      <SunDirectionNormalized x="-0.8050654" y="0.121657938" z="-0.5805766" />
       <WeatherPlanetData>
         <MyObjectBuilder_WeatherPlanetData>
           <PlanetId>-2854667419660876016</PlanetId>
@@ -64138,7 +64140,7 @@ SiegePowerPercentage=0.9
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>94350</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>29583</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -64413,29 +64415,26 @@ SiegePowerPercentage=0.9
   <VicinityArmorModelsCache>
     <string>Models\Characters\Astronaut\SE_astronaut.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateCorner2TipFront.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateCenter.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseLeft.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleRightPlateSlope2Tip.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedRight.mwm</string>
-    <string>Models\Cubes\Large\Armor\SlopePlateSlab.mwm</string>
-    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfCornerDiagonal.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
-    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopeInvertedDiagonal.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlateSlope2Tip.mwm</string>
     <string>Models\Cubes\Large\Armor\HalfSlopeInvertedLeft.mwm</string>
+    <string>Models\Cubes\Large\Armor\HalfSlopedCornerBaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateSlope2TipBack.mwm</string>
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
-  <RemoteAdminSettings>
-    <dictionary />
-  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
