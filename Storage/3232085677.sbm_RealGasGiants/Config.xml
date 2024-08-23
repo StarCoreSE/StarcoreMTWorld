@@ -19,8 +19,8 @@
         <RingSkin>Default2</RingSkin>
         <RingNormal X="90" Y="80" Z="0" />
         <RingColor X="50" Y="50" Z="50" />
-        <RingLightMult>0.1</RingLightMult>
-        <RingShadowMult>0.1</RingShadowMult>
+        <RingLightMult>0.01</RingLightMult>
+        <RingShadowMult>0.01</RingShadowMult>
         <RingInnerScale>1.2</RingInnerScale>
         <RingOuterScale>2.5</RingOuterScale>
         <RingLayerSpacingScale>1</RingLayerSpacingScale>
