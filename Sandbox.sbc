@@ -5,11 +5,11 @@
   <SessionName>Starcore MT</SessionName>
   <SpectatorPosition>
     <Position x="7676.1631452442225" y="467.55763317586189" z="-1144.3219974031381" />
-    <Forward x="-0.900795937" y="-0.08090383" z="0.426639527" />
+    <Forward x="-0.9007959" y="-0.08090383" z="0.4266396" />
     <Up x="-0.06806886" y="0.9966527" z="0.04527679" />
     <Orientation>
       <X>-0.0166755635</X>
-      <Y>0.844418</Y>
+      <Y>0.8444179</Y>
       <Z>0.0373572744</Z>
       <W>0.53412044</W>
     </Orientation>
@@ -51,7 +51,7 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>32</MaxPlayers>
+    <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>16</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
     <MaxBackupSaves>0</MaxBackupSaves>
@@ -122,7 +122,7 @@
     <MaxDropContainerRespawnTime>20</MaxDropContainerRespawnTime>
     <EnableTurretsFriendlyFire>true</EnableTurretsFriendlyFire>
     <EnableSubgridDamage>false</EnableSubgridDamage>
-    <SyncDistance>25000</SyncDistance>
+    <SyncDistance>20000</SyncDistance>
     <ExperimentalMode>true</ExperimentalMode>
     <AdaptiveSimulationQuality>true</AdaptiveSimulationQuality>
     <EnableVoxelHand>false</EnableVoxelHand>
@@ -842,6 +842,11 @@ SiegePowerPercentage=0.9
     <dictionary />
   </PlayersDeadInCryopods>
   <Mods>
+    <ModItem FriendlyName="Hydrogen Plus">
+      <Name>2905820756.sbm</Name>
+      <PublishedFileId>2905820756</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="StarCore Skybox - Magellanic">
       <Name>3251198297.sbm</Name>
       <PublishedFileId>3251198297</PublishedFileId>
@@ -995,11 +1000,6 @@ SiegePowerPercentage=0.9
     <ModItem FriendlyName="SETacView Demo - Replay System">
       <Name>2975063364.sbm</Name>
       <PublishedFileId>2975063364</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="SCThrusterFX">
-      <Name>3033050686.sbm</Name>
-      <PublishedFileId>3033050686</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="SCPracticeAI">
@@ -1293,6 +1293,7 @@ SiegePowerPercentage=0.9
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
   </Mods>
+  <CreativeTools />
   <Scenario Type="MyObjectBuilder_ScenarioDefinition" Subtype="EmptyWorld" />
   <RespawnCooldowns />
   <Identities>
@@ -1602,6 +1603,8 @@ SiegePowerPercentage=0.9
       </item>
     </dictionary>
   </AllPlayersColors>
+  <ChatHistory />
+  <FactionChatHistory />
   <NonPlayerIdentities>
     <long>144115188075855896</long>
     <long>144115188075855897</long>
@@ -64416,4 +64419,7 @@ SiegePowerPercentage=0.9
   </VicinityArmorModelsCache>
   <VicinityVoxelCache />
   <WorldId>dd5139a0-a776-4b1d-a075-50e7e316b75b</WorldId>
+  <RemoteAdminSettings>
+    <dictionary />
+  </RemoteAdminSettings>
 </MyObjectBuilder_Checkpoint>
