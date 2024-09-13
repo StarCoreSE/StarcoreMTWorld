@@ -3,6 +3,8 @@
   <GasGiantBlocksSun>false</GasGiantBlocksSun>
   <GasGiantsHaveAtmoGlobal>false</GasGiantsHaveAtmoGlobal>
   <SetGlobalNoAsteroids>false</SetGlobalNoAsteroids>
+  <CanSpawnOnGasGiants>true</CanSpawnOnGasGiants>
+  <UseLensFlareOccluder>true</UseLensFlareOccluder>
   <GasGiantInfoList>
     <GasGiantConfigInfo PlanetName="RealGasGiant-12345d1000--4919975417197398323">
       <PlanetCustomName>SCArenaSplitter</PlanetCustomName>
