@@ -398,11 +398,6 @@
       <PublishedFileId>2995125400</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Norse Heavy Industries - Weaponcore">
-      <Name>2791770628.sbm</Name>
-      <PublishedFileId>2791770628</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="MultiplayerPredictionSwitcher (Interpolated serverside grid control)">
       <Name>3032417765.sbm</Name>
       <PublishedFileId>3032417765</PublishedFileId>
@@ -438,11 +433,6 @@
       <PublishedFileId>2953725395</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Heavy-Assault-Systems-2024">
-      <Name>3149644542.sbm</Name>
-      <PublishedFileId>3149644542</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Fusion Systems [Modular Assemblies]">
       <Name>3130656484.sbm</Name>
       <PublishedFileId>3130656484</PublishedFileId>
@@ -456,11 +446,6 @@
     <ModItem FriendlyName="Flight Vector">
       <Name>2950011596.sbm</Name>
       <PublishedFileId>2950011596</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Fletcher Armaments Starcore">
-      <Name>2949963748.sbm</Name>
-      <PublishedFileId>2949963748</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Disposable Worklights">
@@ -551,11 +536,6 @@
     <ModItem FriendlyName="AQD - Armor Expansion">
       <Name>1939935505.sbm</Name>
       <PublishedFileId>1939935505</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
-    <ModItem FriendlyName="Anomaly-Solaris-Hypernautics">
-      <Name>2983399274.sbm</Name>
-      <PublishedFileId>2983399274</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="Animation Engine">
