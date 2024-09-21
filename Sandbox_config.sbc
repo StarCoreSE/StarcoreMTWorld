@@ -153,6 +153,11 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
+    <ModItem FriendlyName="Anomaly-Solaris-Hypernautics">
+      <Name>2983399274.sbm</Name>
+      <PublishedFileId>2983399274</PublishedFileId>
+      <PublishedServiceName>Steam</PublishedServiceName>
+    </ModItem>
     <ModItem FriendlyName="40k Weapons Mod">
       <Name>2956906605.sbm</Name>
       <PublishedFileId>2956906605</PublishedFileId>
