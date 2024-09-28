@@ -153,9 +153,9 @@
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
   <Mods>
-    <ModItem FriendlyName="WeaponCore-StarCore">
-      <Name>3149625043.sbm</Name>
-      <PublishedFileId>3149625043</PublishedFileId>
+    <ModItem FriendlyName="WeaponCore - 2.5">
+      <Name>3154371364.sbm</Name>
+      <PublishedFileId>3154371364</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
     <ModItem FriendlyName="WC Radar">
