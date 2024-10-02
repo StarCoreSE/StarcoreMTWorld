@@ -498,11 +498,6 @@
       <PublishedFileId>514062285</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Block Culling">
-      <Name>3237260730.sbm</Name>
-      <PublishedFileId>3237260730</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="BaRCore">
       <Name>2896161103.sbm</Name>
       <PublishedFileId>2896161103</PublishedFileId>
