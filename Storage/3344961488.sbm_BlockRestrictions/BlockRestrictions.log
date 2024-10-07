@@ -1,5 +1,5 @@
-[15:35:41.850] [T1] [DS=False] DEBUG | Log Started
-[15:35:41.893] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
+[15:42:57.046] [T1] [DS=False] DEBUG | Log Started
+[15:42:57.141] [T1] [DS=False] DEBUG | BeforeStart() - Checking Group Settings:
 -> GroupName = UniqueNameHere
 ->-> Setting has 1 definitions:
 ->->-> Definition = (null)/(null)
@@ -2835,6 +2835,72 @@ BeforeStart() - Checking Config for saved settings
 -> Setting = MyObjectBuilder_TerminalBlock/LargeAssemblerIndustrial
 ->-> Setting added successfully
 -> Setting = MyObjectBuilder_TerminalBlock/LargeRefineryIndustrial
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/NC_LG_GUN_Assault-Rifle
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/NetworkTester_Laser_Block
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/SC_RCS_Computer
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/SC_RCS_Computer_small
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_ArbiterKineticBurstCannon
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_FlakTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_HeavyMassDriverTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_HeavyTorpedoLauncher
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_IonCannonFixed
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_IonTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_MediumIonTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_KineticAutogunPDC
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_MediumKineticTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_MediumMassDriverSingleTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_MediumMassDriverTurret
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneHangarHiigara
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneHangarHiigara_Rail
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneBomberHangarHiigara
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneBomberHangarHiigara_Rail
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneHangarHiigara_Tall
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneHangarHiigara_TallFlat
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneBomberHangarHiigara_Tall
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/CHP_DroneBomberHangarHiigara_TallFlat
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/FieldGen_Capacity_Upgrade
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_Collector/FieldGen_Core
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/Starcore_Arrow_Block_Single
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/127mmMk12
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/203mmTriple
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/OerlikonDual
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/OerlikonMain
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/WCSentry_Hangar
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/WCStrikecraft_Hangar
+->-> Setting added successfully
+-> Setting = MyObjectBuilder_ConveyorSorter/AegisLascannonTurret
 ->-> Setting added successfully
 
 BeforeStart() - Checking Entity Components
