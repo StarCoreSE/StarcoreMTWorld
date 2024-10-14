@@ -16,6 +16,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
     <PiratePCU>50000</PiratePCU>
+    <GlobalEncounterPCU>25000</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>NONE</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
@@ -148,7 +149,7 @@
     <MinimumWorldSize>0</MinimumWorldSize>
     <MaxCargoBags>100</MaxCargoBags>
     <TrashCleanerCargoBagsMaxLiveTime>30</TrashCleanerCargoBagsMaxLiveTime>
-    <ScrapEnabled>true</ScrapEnabled>
+    <ScrapEnabled>false</ScrapEnabled>
     <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
     <TemporaryContainers>true</TemporaryContainers>
   </Settings>
