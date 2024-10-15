@@ -497,11 +497,6 @@
       <PublishedFileId>655948251</PublishedFileId>
       <PublishedServiceName>Steam</PublishedServiceName>
     </ModItem>
-    <ModItem FriendlyName="Combat Zone Muzzmod">
-      <Name>2759080043.sbm</Name>
-      <PublishedFileId>2759080043</PublishedFileId>
-      <PublishedServiceName>Steam</PublishedServiceName>
-    </ModItem>
     <ModItem FriendlyName="Cast Spectator - StarCore">
       <Name>3299682578.sbm</Name>
       <PublishedFileId>3299682578</PublishedFileId>
