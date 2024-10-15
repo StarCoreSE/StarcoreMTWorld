@@ -16,6 +16,7 @@
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
     <PiratePCU>50000</PiratePCU>
+    <GlobalEncounterPCU>25000</GlobalEncounterPCU>
     <MaxFactionsCount>0</MaxFactionsCount>
     <BlockLimitsEnabled>NONE</BlockLimitsEnabled>
     <EnableRemoteBlockRemoval>true</EnableRemoteBlockRemoval>
@@ -148,9 +149,27 @@
     <MinimumWorldSize>0</MinimumWorldSize>
     <MaxCargoBags>100</MaxCargoBags>
     <TrashCleanerCargoBagsMaxLiveTime>30</TrashCleanerCargoBagsMaxLiveTime>
-    <ScrapEnabled>true</ScrapEnabled>
+    <ScrapEnabled>false</ScrapEnabled>
     <BroadcastControllerMaxOfflineTransmitDistance>200</BroadcastControllerMaxOfflineTransmitDistance>
     <TemporaryContainers>true</TemporaryContainers>
+    <GlobalEncounterTimer>15</GlobalEncounterTimer>
+    <GlobalEncounterCap>0</GlobalEncounterCap>
+    <GlobalEncounterEnableRemovalTimer>true</GlobalEncounterEnableRemovalTimer>
+    <GlobalEncounterMinRemovalTimer>90</GlobalEncounterMinRemovalTimer>
+    <GlobalEncounterMaxRemovalTimer>180</GlobalEncounterMaxRemovalTimer>
+    <GlobalEncounterRemovalTimeClock>30</GlobalEncounterRemovalTimeClock>
+    <EncounterDensity>0.35</EncounterDensity>
+    <EncounterGeneratorVersion>6</EncounterGeneratorVersion>
+    <EnablePlanetaryEncounters>true</EnablePlanetaryEncounters>
+    <PlanetaryEncounterTimerMin>15</PlanetaryEncounterTimerMin>
+    <PlanetaryEncounterTimerMax>30</PlanetaryEncounterTimerMax>
+    <PlanetaryEncounterExistingStructuresRange>7000</PlanetaryEncounterExistingStructuresRange>
+    <PlanetaryEncounterAreaLockdownRange>10000</PlanetaryEncounterAreaLockdownRange>
+    <PlanetaryEncounterDesiredSpawnRange>6000</PlanetaryEncounterDesiredSpawnRange>
+    <PlanetaryEncounterPresenceRange>20000</PlanetaryEncounterPresenceRange>
+    <PlanetaryEncounterDespawnTimeout>120</PlanetaryEncounterDespawnTimeout>
+    <LimitBlocksBy>BlockPairName</LimitBlocksBy>
+    <MaxHudChatMessageCount>100</MaxHudChatMessageCount>
   </Settings>
   <Mods>
     <ModItem FriendlyName="AQD - Builder's Skybox">
@@ -590,5 +609,5 @@
     </ModItem>
   </Mods>
   <SessionName>Starcore MT</SessionName>
-  <LastSaveTime>2024-10-07T15:43:06.2860373-05:00</LastSaveTime>
+  <LastSaveTime>2024-10-14T14:39:17.5438701-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
